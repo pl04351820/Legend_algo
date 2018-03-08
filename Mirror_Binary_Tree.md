@@ -7,7 +7,7 @@
        10  6
       11 9 5 7   
         
-pre-order iterate, trasfer tree if not null
+pre-order iterate, trasfer tree if children are not null.
           8
         6   10
        5 7 9 11
